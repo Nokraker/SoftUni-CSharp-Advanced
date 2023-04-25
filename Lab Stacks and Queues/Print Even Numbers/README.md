@@ -1,0 +1,5 @@
+﻿#Име Print Even Numbers
+#Условие
+Create a program that:
+ Reads an array of integers and adds them to a queue.
+ Prints the even numbers separated by ", ".

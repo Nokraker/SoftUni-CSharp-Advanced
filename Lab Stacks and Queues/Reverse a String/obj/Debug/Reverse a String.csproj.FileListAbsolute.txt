@@ -1,0 +1,8 @@
+C:\Домашни работи\C# Advanced\Advanced\1.Lab Stacks and Queues\Lab Stacks and Queues\Reverse a String\bin\Debug\Reverse a String.exe.config
+C:\Домашни работи\C# Advanced\Advanced\1.Lab Stacks and Queues\Lab Stacks and Queues\Reverse a String\bin\Debug\Reverse a String.exe
+C:\Домашни работи\C# Advanced\Advanced\1.Lab Stacks and Queues\Lab Stacks and Queues\Reverse a String\bin\Debug\Reverse a String.pdb
+C:\Домашни работи\C# Advanced\Advanced\1.Lab Stacks and Queues\Lab Stacks and Queues\Reverse a String\obj\Debug\Reverse a String.csproj.AssemblyReference.cache
+C:\Домашни работи\C# Advanced\Advanced\1.Lab Stacks and Queues\Lab Stacks and Queues\Reverse a String\obj\Debug\Reverse a String.csproj.SuggestedBindingRedirects.cache
+C:\Домашни работи\C# Advanced\Advanced\1.Lab Stacks and Queues\Lab Stacks and Queues\Reverse a String\obj\Debug\Reverse a String.csproj.CoreCompileInputs.cache
+C:\Домашни работи\C# Advanced\Advanced\1.Lab Stacks and Queues\Lab Stacks and Queues\Reverse a String\obj\Debug\Reverse a String.exe
+C:\Домашни работи\C# Advanced\Advanced\1.Lab Stacks and Queues\Lab Stacks and Queues\Reverse a String\obj\Debug\Reverse a String.pdb
